@@ -1,0 +1,7 @@
+{
+  "name": "vojjova-giveaway",
+  "version": "0.0.1",
+  "dependencies": {
+    "instagram-node": "^0.5.8"
+  }
+}
